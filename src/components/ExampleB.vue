@@ -9,7 +9,8 @@ function handleClick() {
 </script>
 
 <template>
-  <div @click="handleClick">
-    {{ count }}
+  <div>
+    ExampleB
+    <span @click="handleClick">{{ count }}</span>
   </div>
 </template>

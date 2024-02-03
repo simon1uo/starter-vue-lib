@@ -6,6 +6,7 @@ defineProps<{
 
 <template>
   <div>
-    {{ msg }}
+    ExampleA
+    {{ msg }} 
   </div>
 </template>
